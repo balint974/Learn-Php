@@ -3,3 +3,11 @@
     Author: Gabi
     Version: 1.0
 */
+
+html{
+    margin:0;
+}
+
+body{
+    color:red;
+}
